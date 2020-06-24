@@ -17,7 +17,3 @@ _____________________________
 >[String Problems](strings.md)
 
 >[Dynamic Programming Problems](dynamicprog.md)
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
